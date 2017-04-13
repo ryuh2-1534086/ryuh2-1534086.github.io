@@ -1,9 +1,0 @@
-.image {
-    position:relative;
-    text-align:center; // doesn't work as desired :(
-}
-
-.text {
-    position:absolute;
-    top:30px;
-}
