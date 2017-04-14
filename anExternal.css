@@ -3,11 +3,9 @@ body {
  background-color: lightblue;
  color: black;
 }
-p {
+h3 {
  color: red;
  text-align: Left;
- border: 2px black;
- border-radius: 10px;
 }
 div {
  border: 3px solid black;
