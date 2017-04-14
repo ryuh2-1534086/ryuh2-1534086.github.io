@@ -1,0 +1,26 @@
+/* anExternal.css */
+body {
+ background-image: url("paper.gif");
+ color: black;
+}
+p {
+ color: red;
+ text-align: Left;
+ border: 2px black;
+ border-radius: 10px;
+}
+div {
+ border: 3px solid black;
+ border-radius: 12px;
+}
+.img1 {
+ float: right;
+}
+h1 {
+ color: Black;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+.clearfix {
+ overflow: auto;
+}
